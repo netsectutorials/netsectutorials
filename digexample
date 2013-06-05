@@ -1,0 +1,16 @@
+; <<>> DiG 9.8.3-P1 <<>> a netsectutorials.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11590
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;netsectutorials.com.  	IN	A
+
+;; ANSWER SECTION:
+netsectutorials.com.	13330	IN	A	173.245.6.236
+
+;; Query time: 18 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8)
+;; WHEN: Wed Jun  5 17:54:47 2013
+;; MSG SIZE  rcvd: 53
